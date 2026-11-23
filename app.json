@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Ninja Ship Tài Xế",
+    "slug": "ninja-ship-taixe",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.ninjaship.taixe"
+    },
+    "android": {
+      "package": "com.ninjaship.taixe",
+      "adaptiveIcon": {
+        "backgroundColor": "#111827"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": ""
+      }
+    }
+  }
+}
